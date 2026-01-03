@@ -1,0 +1,11 @@
+C:\Users\dorsz\source\repos\ConsoleApp1\ChatLogic\bin\Debug\net9.0\ChatLogic.deps.json
+C:\Users\dorsz\source\repos\ConsoleApp1\ChatLogic\bin\Debug\net9.0\ChatLogic.dll
+C:\Users\dorsz\source\repos\ConsoleApp1\ChatLogic\bin\Debug\net9.0\ChatLogic.pdb
+C:\Users\dorsz\source\repos\ConsoleApp1\ChatLogic\obj\Debug\net9.0\ChatLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorsz\source\repos\ConsoleApp1\ChatLogic\obj\Debug\net9.0\ChatLogic.AssemblyInfoInputs.cache
+C:\Users\dorsz\source\repos\ConsoleApp1\ChatLogic\obj\Debug\net9.0\ChatLogic.AssemblyInfo.cs
+C:\Users\dorsz\source\repos\ConsoleApp1\ChatLogic\obj\Debug\net9.0\ChatLogic.csproj.CoreCompileInputs.cache
+C:\Users\dorsz\source\repos\ConsoleApp1\ChatLogic\obj\Debug\net9.0\ChatLogic.dll
+C:\Users\dorsz\source\repos\ConsoleApp1\ChatLogic\obj\Debug\net9.0\refint\ChatLogic.dll
+C:\Users\dorsz\source\repos\ConsoleApp1\ChatLogic\obj\Debug\net9.0\ChatLogic.pdb
+C:\Users\dorsz\source\repos\ConsoleApp1\ChatLogic\obj\Debug\net9.0\ref\ChatLogic.dll
