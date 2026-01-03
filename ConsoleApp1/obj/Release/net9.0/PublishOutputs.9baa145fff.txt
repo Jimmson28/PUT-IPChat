@@ -1,0 +1,7 @@
+C:\Build\ConsoleApp1.exe
+C:\Build\ConsoleApp1.dll
+C:\Build\ConsoleApp1.deps.json
+C:\Build\ConsoleApp1.runtimeconfig.json
+C:\Build\ConsoleApp1.pdb
+C:\Build\ChatLogic.dll
+C:\Build\ChatLogic.pdb
