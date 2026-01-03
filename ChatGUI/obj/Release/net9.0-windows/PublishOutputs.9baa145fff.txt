@@ -1,0 +1,7 @@
+C:\Build\ChatGUI.exe
+C:\Build\ChatGUI.dll
+C:\Build\ChatGUI.deps.json
+C:\Build\ChatGUI.runtimeconfig.json
+C:\Build\ChatGUI.pdb
+C:\Build\ChatLogic.dll
+C:\Build\ChatLogic.pdb
